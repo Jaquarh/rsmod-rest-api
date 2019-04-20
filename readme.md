@@ -29,3 +29,5 @@ Finally, copy the service direcotry to your plugin services directory.
 # Creating your own routes and controllers
 
 // todo
+
+# Your API will run on http://127.0.0.1:4567
